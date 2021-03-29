@@ -2,7 +2,7 @@
 
 ## Project Description
 
-Scraper collects a list of korean cleansers from korean skincare website.
+Web Scraper project consists of getting the data of korean cleansers on Korean skincare website.
 *****
 
 ## SetUp Instruction
